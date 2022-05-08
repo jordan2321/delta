@@ -1,7 +1,7 @@
 # Δelta δata
 
 
-### Le projet : evolution des deces et naissances en France
+### Le projet : Evolution des deces et naissances en France
 
 
 Ce projet a pour but de nous permettre de visualiser l'evolution des deces et des naissances en France par departement de 1970 à 2020 et egalement les naissances et deces en 2020. Le graphique nous permets de visualiser cette evolution, vous pouvez donc, à l'aide de votre souris, survoler les differents departement de la France et ainsi comparer les données observées.
